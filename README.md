@@ -6,4 +6,4 @@ Paper: [TopicBERT: Topic-aware BERT for Efficient Document Classification](https
 
 The two subdirectories contains the implementations of our two proposed models:
   1. **TopicBERT**
-  1. **TopicdistilBERT**
+  1. **TopicDistilBERT**
