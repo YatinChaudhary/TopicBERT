@@ -1,0 +1,8 @@
+numpy==1.16.6
+tensorflow-gpu==1.15.0
+sklearn==0.0
+sortedcollections==0.6.1
+Keras==2.2.4
+nltk==3.3
+aws-shell
+tensorflow-determinism

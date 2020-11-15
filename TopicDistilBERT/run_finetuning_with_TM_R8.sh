@@ -1,0 +1,22 @@
+#export MODULE_PATH=$PWD/src
+python run_finetuning_with_TM.py \
+	--datainputdir ./datasets/raw \
+	--datasetname reuters8 \
+	--trainfilename training.txt \
+	--valfilename validation.txt \
+	--testfilename test.txt \
+	--modeldir ./output \
+	--dataoutputdir ./datasets/processed \
+	--multilabel False \
+	--max_length 512 \
+	--batch_size 4 \
+	--TMtrainfilename training_nvdm_docs_non_replicated.csv \
+	--TMvalfilename validation_nvdm_docs_non_replicated.csv \
+	--TMtestfilename test_nvdm_docs_non_replicated.csv \
+	--TM_vocab_length 4813 \
+	--hidden_size_TM 256 \
+	--n_topic_TM 100 \
+	--n_sample_TM 1 \
+	--learning_rate_TM 0.001 \
+	--alpha 0.9 \
+	--TM_pretrained_model_path ./outputs_nvdm_only/reuters8/reuters8_sigmoid_n_topics_100

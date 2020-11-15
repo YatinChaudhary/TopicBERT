@@ -1,0 +1,43 @@
+| Epoch Val: 1 || Val Corpus PPL: 1859.751594222 || Val Per doc PPL: 1949.34384 || Best Val PPL: 1949.3 || KLD Val: 21.124 |
+| Epoch Val: 2 || Val Corpus PPL: 1047.361870832 || Val Per doc PPL: 921.31919 || Best Val PPL: 921.32 || KLD Val: 25.484 |
+| Epoch Val: 3 || Val Corpus PPL: 898.457033350 || Val Per doc PPL: 702.26910 || Best Val PPL: 702.27 || KLD Val: 28.58 |
+| Epoch Val: 4 || Val Corpus PPL: 928.779791613 || Val Per doc PPL: 694.35446 || Best Val PPL: 694.35 || KLD Val: 31.01 |
+| Epoch Val: 5 || Val Corpus PPL: 884.208548948 || Val Per doc PPL: 634.84319 || Best Val PPL: 634.84 || KLD Val: 31.913 |
+| Epoch Val: 6 || Val Corpus PPL: 886.264027814 || Val Per doc PPL: 621.71193 || Best Val PPL: 621.71 || KLD Val: 30.411 |
+| Epoch Val: 7 || Val Corpus PPL: 884.377021991 || Val Per doc PPL: 598.87996 || Best Val PPL: 598.88 || KLD Val: 32.154 |
+| Epoch Val: 8 || Val Corpus PPL: 907.975911401 || Val Per doc PPL: 610.93485 || Best Val PPL: 598.88 || KLD Val: 29.446 |
+| Epoch Val: 9 || Val Corpus PPL: 924.667965140 || Val Per doc PPL: 592.79627 || Best Val PPL: 592.8 || KLD Val: 31.975 |
+| Epoch Val: 10 || Val Corpus PPL: 909.298769585 || Val Per doc PPL: 578.46682 || Best Val PPL: 578.47 || KLD Val: 31.655 |
+| Epoch Val: 11 || Val Corpus PPL: 913.250729024 || Val Per doc PPL: 568.71013 || Best Val PPL: 568.71 || KLD Val: 32.02 |
+| Epoch Val: 12 || Val Corpus PPL: 996.194167175 || Val Per doc PPL: 609.88723 || Best Val PPL: 568.71 || KLD Val: 35.359 |
+| Epoch Val: 13 || Val Corpus PPL: 984.439245005 || Val Per doc PPL: 621.18062 || Best Val PPL: 568.71 || KLD Val: 38.791 |
+| Epoch Val: 14 || Val Corpus PPL: 1021.142170709 || Val Per doc PPL: 648.84658 || Best Val PPL: 568.71 || KLD Val: 30.401 |
+| Epoch Val: 15 || Val Corpus PPL: 967.320710608 || Val Per doc PPL: 574.59037 || Best Val PPL: 568.71 || KLD Val: 33.94 |
+| Epoch Val: 16 || Val Corpus PPL: 975.281145486 || Val Per doc PPL: 592.03528 || Best Val PPL: 568.71 || KLD Val: 33.904 |
+| Epoch Val: 17 || Val Corpus PPL: 1038.733236387 || Val Per doc PPL: 608.43040 || Best Val PPL: 568.71 || KLD Val: 37.145 |
+| Epoch Val: 18 || Val Corpus PPL: 1006.753888278 || Val Per doc PPL: 574.71292 || Best Val PPL: 568.71 || KLD Val: 34.708 |
+| Epoch Val: 19 || Val Corpus PPL: 986.060853312 || Val Per doc PPL: 567.77469 || Best Val PPL: 567.77 || KLD Val: 33.388 |
+| Epoch Val: 20 || Val Corpus PPL: 995.569564894 || Val Per doc PPL: 563.11492 || Best Val PPL: 563.11 || KLD Val: 33.428 |
+| Epoch Val: 21 || Val Corpus PPL: 1021.036766949 || Val Per doc PPL: 575.23968 || Best Val PPL: 563.11 || KLD Val: 35.377 |
+| Epoch Val: 22 || Val Corpus PPL: 1015.204249082 || Val Per doc PPL: 566.10265 || Best Val PPL: 563.11 || KLD Val: 33.396 |
+| Epoch Val: 23 || Val Corpus PPL: 1020.531082893 || Val Per doc PPL: 572.72044 || Best Val PPL: 563.11 || KLD Val: 33.326 |
+| Epoch Val: 24 || Val Corpus PPL: 1039.172594148 || Val Per doc PPL: 568.78362 || Best Val PPL: 563.11 || KLD Val: 35.63 |
+| Epoch Val: 25 || Val Corpus PPL: 1057.449798229 || Val Per doc PPL: 577.67853 || Best Val PPL: 563.11 || KLD Val: 35.566 |
+| Epoch Val: 26 || Val Corpus PPL: 1048.089310939 || Val Per doc PPL: 572.96717 || Best Val PPL: 563.11 || KLD Val: 33.16 |
+| Epoch Val: 27 || Val Corpus PPL: 1047.352848692 || Val Per doc PPL: 568.68699 || Best Val PPL: 563.11 || KLD Val: 33.37 |
+| Epoch Val: 28 || Val Corpus PPL: 1052.433371765 || Val Per doc PPL: 569.31242 || Best Val PPL: 563.11 || KLD Val: 33.247 |
+| Epoch Val: 29 || Val Corpus PPL: 1050.096297245 || Val Per doc PPL: 560.42437 || Best Val PPL: 560.42 || KLD Val: 33.072 |
+| Epoch Val: 30 || Val Corpus PPL: 1055.128472228 || Val Per doc PPL: 564.42759 || Best Val PPL: 560.42 || KLD Val: 34.943 |
+| Epoch Val: 31 || Val Corpus PPL: 1063.361505209 || Val Per doc PPL: 565.96777 || Best Val PPL: 560.42 || KLD Val: 35.47 |
+| Epoch Val: 32 || Val Corpus PPL: 1085.449657734 || Val Per doc PPL: 579.25114 || Best Val PPL: 560.42 || KLD Val: 36.149 |
+| Epoch Val: 33 || Val Corpus PPL: 1106.686622782 || Val Per doc PPL: 584.53518 || Best Val PPL: 560.42 || KLD Val: 35.877 |
+| Epoch Val: 34 || Val Corpus PPL: 1119.135955783 || Val Per doc PPL: 593.27675 || Best Val PPL: 560.42 || KLD Val: 33.125 |
+| Epoch Val: 35 || Val Corpus PPL: 1081.400534492 || Val Per doc PPL: 571.97718 || Best Val PPL: 560.42 || KLD Val: 33.685 |
+| Epoch Val: 36 || Val Corpus PPL: 1090.246553502 || Val Per doc PPL: 579.89168 || Best Val PPL: 560.42 || KLD Val: 33.154 |
+| Epoch Val: 37 || Val Corpus PPL: 1074.150863460 || Val Per doc PPL: 566.88106 || Best Val PPL: 560.42 || KLD Val: 33.488 |
+| Epoch Val: 38 || Val Corpus PPL: 1065.383511143 || Val Per doc PPL: 566.67997 || Best Val PPL: 560.42 || KLD Val: 35.372 |
+| Epoch Val: 39 || Val Corpus PPL: 1091.789666269 || Val Per doc PPL: 573.84685 || Best Val PPL: 560.42 || KLD Val: 34.574 |
+| Epoch Val: 40 || Val Corpus PPL: 1111.853972693 || Val Per doc PPL: 587.86613 || Best Val PPL: 560.42 || KLD Val: 33.328 |
+
+
+Test Corpus PPL: 1200.135000931 || Test Per doc PPL: 561.87767 || KLD Test: 29.802 |

@@ -1,0 +1,2 @@
+model_checkpoint_path: "./topic_bert/outputs_nvdm_only/reuters8/reuters8_sigmoid_n_topics_100/model_ppl_nvdm_pretrain/model_ppl_nvdm_pretrain-1"
+all_model_checkpoint_paths: "./topic_bert/outputs_nvdm_only/reuters8/reuters8_sigmoid_n_topics_100/model_ppl_nvdm_pretrain/model_ppl_nvdm_pretrain-1"

@@ -1,0 +1,500 @@
+h_num: 0
+w_h_top_words_indx: [4545  327 1985 1191 1926 1628 2321 2055 1755 1602  446  862 2180 3308
+  415 1279 1428 2697 3010 2087]
+w_h_top_words:['worse', 'equity', 'got', 'others', 'never', 'groups', 'variety', 'moved', 'established', 'optimistic', 'members', 'best', 'owners', 'iron', 'accord', 'opening', 'sides', 'zone', 'individuals', 'controlling']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [1546 3210 1563 3162 2582 4130 4145  806 3121 1652 3642 4516 2105 2257
+ 2146 3736 3741  722 1325 1715]
+w_h_top_words:['container', 'pictures', 'warrant', 'splits', 'jr', 'frozen', 'seaway', 'existing', 'participants', 'huge', 'consists', 'retire', 'resigned', 'powers', 'par', 'ball', 'returns', 'australian', 'richard', 'proceed']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [4509 2495 2125 3873 2436 2754 4450 1198 2953 4724 4324 1807 3955 1693
+ 3094 3166 1568 3748 2768  929]
+w_h_top_words:['opposing', 'casualty', 'delta', 'subscribers', 'spread', 'serves', 'space', 'personal', 'concessions', 'va', 'cb', 'concerns', 'tele', 'opposed', 'experience', 'divided', 'delayed', 'tools', 'cellular', 'lines']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [1757 2873 1750 3479 2314  427  572 2171 1124 2153  522 1275 2014 1313
+  919 1011 1877  165 1617  157]
+w_h_top_words:['active', 'aims', 'pursue', 'easing', 'recommendations', 'cyclops', 'dixons', 'achieve', 'possibility', 'cyl', 'saying', 'step', 'rejects', 'immediate', 'row', 'white', 'stabilize', 'talks', 'executives', 'officials']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [3327 1859 1671 4696 2800 2222  644  870 1442 1793 3451  936 2864 1421
+ 1544 3649 3526 1204 1531  592]
+w_h_top_words:['tie', 'described', 'enable', 'efficiency', 'arranged', 'eased', 'past', 'paper', 'opened', 'fees', 'guidelines', 'keep', 'initiative', 'dominion', 'develop', 'emerge', 'selected', 'deposit', 'focus', 'charges']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [1635  999 2697 1614 1129  630 3855 1869 3897 1266 2077 1945 2644 2318
+ 1987 4403 2420 1234 2905 2438]
+w_h_top_words:['totaled', 'came', 'zone', 'larger', 'role', 'show', 'climate', 'advantage', 'challenge', 'medium', 'regarding', 'backed', 'apply', 'uncertainty', 'limits', 'bearing', 'flag', 'predicted', 'commented', 'play']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [1231 1747 2090 2287 3083 3874 1098 1506 1675 3789 2919 1103 1868 2457
+ 3555 4087  988 3236 4050 4089]
+w_h_top_words:['clear', 'smaller', 'movements', 'begun', 'tech', 'perhaps', 'materials', 'depreciation', 'slow', 'politically', 'replace', 'engineering', 'confidence', 'appreciation', 'ground', 'ocean', 'bring', 'optimism', 'mitchell', 'degree']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [1192  633 1603  309 3843 1208 4586  349 1204 2908 1651 1330 2489 3426
+ 1387 1840 4154 3234 1624 4450]
+w_h_top_words:['hope', 'limited', 'reducing', 'firms', 'hundred', 'protection', 'investigate', 'several', 'deposit', 'register', 'indicated', 'adjustment', 'vital', 'congressmen', 'protect', 'ventures', 'structural', 'junior', 'operator', 'space']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [1937 2632 1981  514 4091 1561 1204 3595 2512 2452 1125 2848 2686 2761
+ 1631 3501 2782 1994  466 4327]
+w_h_top_words:['requires', 'supplier', 'exchanges', 'community', 'forecasting', 'refused', 'deposit', 'integration', 'club', 'margin', 'activity', 'announces', 'priority', 'secure', 'contributed', 'invited', 'tight', 'attributable', 'fed', 'realise']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [1141 1689 3534 3271 4712 4104 2779 1754 3217 2856 1525  214 1361 2642
+ 4733 2004 3594 3388 3829 2397]
+w_h_top_words:['source', 'status', 'violation', 'bureau', 'length', 'unidentified', 'thomas', 'operated', 'lawrence', 'heads', 'singapore', 'system', 'done', 'rapid', 'sending', 'broad', 'forcing', 'filings', 'doors', 'microwave']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [1467 3219 1265 1254 1256 4766 1057  793 2041 3574 2949 2476 1684 1460
+ 2120 3137 2031 1374 3211  726]
+w_h_top_words:['manhattan', 'conagra', 'converted', 'chase', 'r', 'monfort', 'illinois', 'immediately', 'myers', 'executed', 'bristol', 'hikes', 'broker', 'valley', 'king', 'restaurant', 'expired', 'cumulative', 'pursuant', 'g']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [3911 2444 2701  931 2306 1966 4379  184 2251  161 1583 3735 3597 2110
+ 4152 3138 1026 3996 3123 3997]
+w_h_top_words:['edmonton', 'alberta', 'targets', 'shell', 'lucky', 'mills', 'atco', 'canadian', 'petro', 'canada', 'diamond', 'volatility', 'terminate', 'grade', 'oils', 'hills', 'bbl', 'thinking', 'carson', 'yearly']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [2069 2741 2299 1048  261 2498 4030 1814 4129  685 1752 3187 1869 1836
+ 2751 2148 1390 3372 3583  925]
+w_h_top_words:['duties', 'specify', 'appeared', 'together', 'third', 'involve', 'newport', 'strongly', 'ideas', 'issues', 'anything', 'predict', 'advantage', 'emergency', 'electrical', 'represent', 'accounted', 'extensive', 'ran', 'remains']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [1760 2655 1810 2001 2111 2871 3769 1619 3044 4514 4337 1401 2376 3183
+ 4069 3977 2297 3382 3629 1769]
+w_h_top_words:['obtain', 'invested', 'goal', 'lifted', 'produces', 'answer', 'craft', 'commitments', 'audit', 'arthur', 'covers', 'fee', 'modest', 'practice', 'attract', 'temporarily', 'prospect', 'broke', 'instrument', 'premium']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [3471 1077  638 1598 2304  703 2859  922 3431 1025 1403 1321 2186 1175
+ 2644 1182  530  628 3086 2607]
+w_h_top_words:['prompted', 'allowed', 'reduction', 'towards', 'simply', 'review', 'receiving', 'longer', 'encouraged', 'bids', 'center', 'face', 'headed', 'head', 'apply', 'outlook', 'hold', 'france', 'excessive', 'upward']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [2348 3508 1808 1855  511 1574 3342 4450 2354 2690 1130 2149 2321 4514
+ 1048 2228 1455 3449 2222  925]
+w_h_top_words:['pledged', 'patents', 'plants', 'fears', 'october', 'different', 'methods', 'space', 'institution', 'southeast', 'instead', 'calendar', 'variety', 'arthur', 'together', 'direction', 'avoid', 'weighted', 'eased', 'remains']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [2858 4076 2840 1321 2971 3612 2007 1871 3707 3055 3821 3361 4656 2931
+  360 1680 1763 3802 1907 1810]
+w_h_top_words:['marathon', 'discounted', 'refiners', 'face', 'repayment', 'connected', 'refineries', 'allowing', 'planes', 'balanced', 'coupled', 'issuance', 'difference', 'outlined', 'amount', 'borrowing', 'maximum', 'silver', 'merchant', 'goal']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [1321 2606 3221 3590 1262 4048 1498 2427 2580 1893 2566 3981 4106  528
+ 2246 1688 4188 2293 2047 1077]
+w_h_top_words:['face', 'fifth', 'ambassador', 'representation', 'granted', 'sixth', 'barriers', 'shortfall', 'foundation', 'mexico', 'exchangeable', 'bac', 'realize', 'reporters', 'returned', 'sure', 'diversify', 'injunction', 'underlying', 'allowed']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [1226 2743 1623 2493 3759 2468 1495 1693  776 1047 4019 2382 3656 2870
+ 2298 4398  323 1313 3183 3089]
+w_h_top_words:['paul', 'joined', 'managing', 'remove', 'virtually', 'lee', 'course', 'opposed', 'believe', 'party', 'cheaper', 'file', 'containing', 'defensive', 'putting', 'decides', 'future', 'immediate', 'practice', 'wait']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [1636 1260 3893 2811 1895 3641 1786 4458 4459  295 3644 2777 2772 3747
+ 4709 2465 1695  840 3940  992]
+w_h_top_words:['trans', 'found', 'receives', 'reject', 'unsolicited', 'files', 'recommended', 'novamin', 'breakwater', 'usair', 'caw', 'counsel', 'pie', 'charging', 'attempting', 'respond', 'takeovers', 'sosnoff', 'drops', 'transportation']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [2014 1963 3441 2939 2702 3265 2757  939 4275 3352 3617 4305 1453 3779
+  937 1768 3136 3144 2242 3177]
+w_h_top_words:['rejects', 'across', 'chem', 'beach', 'publications', 'communities', 'pharmaceutical', 'waste', 'navigation', 'evaluating', 'wmx', 'shield', 'test', 'locations', 'chemlawn', 'wide', 'thrift', 'alliance', 'located', 'equitable']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [ 742 2180 3216 2460 1476 2833 2956  608 1330 1836 3889 1866 3299 2034
+ 2254 2516 2357 1190 3192 4619]
+w_h_top_words:['significant', 'owners', 'comprehensive', 'damages', 'chance', 'uncertain', 'involves', 'become', 'adjustment', 'emergency', 'kentucky', 'safety', 'studies', 'allowance', 'engine', 'win', 'encouraging', 'reason', 'associate', 'explain']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [2423  952  593 1385 2239 2148 1413 2344 1406 3986 2477  640 3876 2443
+ 4629  745 2466 1860 1051 2623]
+w_h_top_words:['ever', 'operate', 'target', 'denied', 'identified', 'represent', 'hours', 'occur', 'separate', 'brewery', 'otherwise', 'remaining', 'persuade', 'sufficient', 'undertaken', 'law', 'comply', 'effects', 'newly', 'minnesota']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [2580 2101 2555  441 1391 3097 3519 1181 1789 2088 4343 3171 1783 2758
+ 2670 3205 3811 1809 4422 2877]
+w_h_top_words:['foundation', 'lowest', 'mineral', 'used', 'cos', 'else', 'francaise', 'left', 'star', 'advisor', 'accompanying', 'true', 'banker', 'chalmers', 'allis', 'oilfield', 'distributes', 'double', 'generating', 'brief']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [1471 1244 1751 3862 2633  737 3359 2413 1480 3782  734 1109 2305 4792
+ 3500 2132 4253 1016 1522 2139]
+w_h_top_words:['extend', 'require', 'salomon', 'reduces', 'boosts', 'east', 'mile', 'airport', 'harris', 'latter', 'electric', 'recovery', 'appears', 'mco', 'proceedings', 'fresh', 'marketable', 'pension', 'asian', 'accrual']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [1010 1479 1228 4050 2164  797 4736 2207  681 1499  807  280 1578 3738
+ 2330 2978  941 4029 4065 2355]
+w_h_top_words:['try', 'starting', 'ranging', 'mitchell', 'painewebber', 'considering', 'reversed', 'pro', 'sec', 'investigation', 'iranian', 'another', 'retirement', 'aqazadeh', 'pipelines', 'considers', 'chicago', 'ecolab', 'settled', 'withdrawn']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [3042 3165 1286  805 3614 2090 1734 3682 1468 1878 2288 2600  797  911
+ 2152  896 4709 1626 3183 1881]
+w_h_top_words:['risks', 'secondary', 'affect', 'competition', 'restrict', 'movements', 'beyond', 'cosmetics', 'especially', 'threat', 'expanding', 'carefully', 'considering', 'similar', 'let', 'entered', 'attempting', 'beneficial', 'practice', 'therefore']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [1849 1803 3832  276 1919 1652 2052 2685   97 3742   47  836 4042 1939
+ 3252 3864 1462  435  839 2630]
+w_h_top_words:['summit', 'concluded', 'widespread', 'house', 'adjustments', 'huge', 'approach', 'improving', 'japanese', 'attracted', 'japan', 'like', 'breached', 'retaliatory', 'trip', 'complaints', 'johnson', 'budget', 'benefit', 'momentum']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [ 550 1600 4154 2199 2374 2967 4549 1985 2098 2609  465 2648 4552 1424
+ 2477  691 2293 1569 4704  279]
+w_h_top_words:['although', 'v', 'structural', 'environment', 'replied', 'procedures', 'doubtful', 'got', 'ordered', 'section', 'right', 'machines', 'implications', 'whose', 'otherwise', 'provisions', 'injunction', 'intended', 'greatly', 'computer']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [ 790 3749 3062  391 1537 2735 4359  729 3088  184 1055 3022 2594 2209
+ 2599 2390 3211 1760 1897 2967]
+w_h_top_words:['working', 'delivered', 'principally', 'financing', 'technical', 'grant', 'mutually', 'november', 'willingness', 'canadian', 'defense', 'nec', 'default', 'internal', 'montreal', 'stopped', 'pursuant', 'obtain', 'bear', 'procedures']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [1085  981 4548 3133  702 3499  509 3122 1403 3010 2525  832 3263 1618
+ 3687 3185 1186 3799  974 1659]
+w_h_top_words:['traded', 'corporation', 'absence', 'users', 'improved', 'amounting', 'related', 'healthcare', 'center', 'individuals', 'discounts', 'substantial', 'acknowledged', 'moving', 'papers', 'guarantee', 'actions', 'tone', 'brothers', 'appropriate']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [3418  240 2100 1337 2692 4392 3374 1613 1719  559 1966 2126 2734 1873
+ 2956 1620 3939  505 4643 1330]
+w_h_top_words:['extra', 'central', 'defend', 'italian', 'spanish', 'surrounding', 'language', 'exchequer', 'announce', 'currencies', 'mills', 'circulation', 'belgium', 'chancellor', 'involves', 'franc', 'founder', 'deposits', 'nationale', 'adjustment']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [2350 1445 4195 2355 4660 1194 2054 2808 2063 1629 3526 1617 1315 2132
+ 2274 4572 2114 2321 3453 3535]
+w_h_top_words:['est', 'delivery', 'image', 'withdrawn', 'assess', 'largely', 'protectionism', 'responsible', 'jointly', 'counter', 'selected', 'executives', 'upon', 'fresh', 'princeville', 'pursuing', 'surpluses', 'variety', 'designs', 'underway']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [2600 3859 3546 3104 4702 4488 3463 3521 3747 1925 3988 4542 1331 2260
+ 1496 2711 3670 1711 1725 3518]
+w_h_top_words:['carefully', 'hearings', 'fiduciary', 'topped', 'formation', 'recognize', 'weaker', 'responded', 'charging', 'inadequate', 'nigerian', 'thereafter', 'sheet', 'cooperative', 'affairs', 'fort', 'depended', 'van', 'coastal', 'version']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [3956 1455 1361 3841 2205 3494 2962 3310 1924 3649 2490 1757 2113 2776
+ 1470 1887 1779 1335 1625 2344]
+w_h_top_words:['issuing', 'avoid', 'done', 'advances', 'competitiveness', 'backing', 'alone', 'maybe', 'built', 'emerge', 'job', 'active', 'traditional', 'influence', 'matter', 'exporters', 'arrangement', 'sought', 'spain', 'occur']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [3141 2304 2766 1453 1492 2399 2121 1679 2036 2006 1632 3463 4652 2032
+ 2660 1816 2691 1965 2326 3449]
+w_h_top_words:['peak', 'simply', 'design', 'test', 'big', 'distance', 'telegraph', 'houses', 'apparently', 'success', 'toward', 'weaker', 'completely', 'institutional', 'duty', 'insured', 'succeed', 'body', 'atlanta', 'weighted']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [2554 2276 2417 3659 3757 4772 2151 1576 1835 3570 1310 2622 2489 1961
+ 4166 2786 3518  806 1544 2009]
+w_h_top_words:['personnel', 'stressed', 'treatment', 'prepare', 'entering', 'keen', 'listed', 'warned', 'ensure', 'steadily', 'exercise', 'obtained', 'vital', 'usa', 'efficient', 'exact', 'version', 'existing', 'develop', 'meanwhile']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [  37   36   48   99  304   32  226  256  316  481   34 1319 1647  665
+ 2807   11  499  365  258 1180]
+w_h_top_words:['shrs', 'avg', 'mths', 'rd', 'nd', 'oper', 'excludes', 'feb', 'gains', 'credits', 'nine', 'carryforwards', 'realized', 'restated', 'mth', 'revs', 'periods', 'nil', 'discontinued', 'carryforward']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [1602 3001 1867 1910 1247  502 2179 1684 1654 1222 2663  248  941 4398
+ 2809 3401  993 4622 4499 2424]
+w_h_top_words:['optimistic', 'detailed', 'million', 'suspension', 'launched', 'de', 'running', 'broker', 'leader', 'totalled', 'park', 'imports', 'chicago', 'decides', 'suspend', 'banque', 'nearly', 'hundreds', 'mandatory', 'link']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [1345 3317 3913 1902 2104 2814 3690  648 3437 4163  999 3432 1191  934
+ 1755 2443 3181 2891 1406 3344]
+w_h_top_words:['claims', 'satisfy', 'preserve', 'columbia', 'depressed', 'asking', 'evaluation', 'consider', 'travel', 'cutbacks', 'came', 'proportion', 'others', 'expand', 'established', 'sufficient', 'fill', 'severe', 'separate', 'upper']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [1604 1862 2500  363 2086 1140 3838 1018 2092 2376 1538 4704 1844  537
+ 1897  252  166 3076 1215  482]
+w_h_top_words:['invest', 'abroad', 'drive', 'european', 'imbalances', 'broadcasting', 'restructured', 'swiss', 'represented', 'modest', 'grow', 'greatly', 'structure', 'mark', 'bear', 'industrial', 'markets', 'explained', 'released', 'germany']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [1224 2971 2963 2690 1535 1969 4423 3955 1752 2303 3037  685 1363 1176
+ 2213 3679 3091 4761 1558 3849]
+w_h_top_words:['approvals', 'repayment', 'assuming', 'southeast', 'radio', 'introduced', 'bermuda', 'tele', 'anything', 'determination', 'participating', 'issues', 'designed', 'old', 'setting', 'leases', 'disc', 'fm', 'weekly', 'negotiators']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [1320  716 3475 1755  449 1769  882 2459 2561 4257 1684  399 2956 3591
+ 1763 1804 1341 1506  998 2935]
+w_h_top_words:['governor', 'act', 'detail', 'established', 'reserve', 'premium', 'mainly', 'philadelphia', 'totalling', 'basket', 'broker', 'funds', 'involves', 'quick', 'maximum', 'created', 'auction', 'depreciation', 'benefits', 'obtaining']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [1687 3640  984 2595 1440 1410 1141  874 1362 1203 2152 2601 3163 2507
+  899 1899 2612 1361 2155 3492]
+w_h_top_words:['hurt', 'differences', 'river', 'severance', 'charged', 'basic', 'source', 'sea', 'merged', 'direct', 'let', 'implemented', 'served', 'shift', 'sept', 'throughout', 'headquarters', 'done', 'settle', 'economics']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [3521 1145 2410 1355 2644 3883  491 1316 3678 1786 3786 3679 1210  883
+  464 1276 2280 4406 3808 1448]
+w_h_top_words:['responded', 'w', 'participate', 'specialty', 'apply', 'henderson', 'joint', 'committed', 'freeze', 'recommended', 'founded', 'leases', 'coal', 'morgan', 'chemical', 'wells', 'ill', 'unitholders', 'maturities', 'planning']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [2665 2717 3049 2416 4369 4774 3661 2234 4315 4702 4345 3528 3026 3213
+ 2025 2147 1949 1987 2849 2121]
+w_h_top_words:['initially', 'turkey', 'digital', 'eventually', 'danish', 'turkish', 'soared', 'brace', 'capable', 'formation', 'alabama', 'finland', 'mitsui', 'hbj', 'survey', 'submitted', 'governments', 'limits', 'jovanovich', 'telegraph']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [ 971 2043  512  215  212 3954  807 2739 4358 3663 1886 1423 3908  570
+ 4305 2330 1358 3805 3373 2441]
+w_h_top_words:['natural', 'basin', 'exploration', 'gas', 'energy', 'discovered', 'iranian', 'red', 'di', 'usx', 'mobil', 'santos', 'mail', 'properties', 'shield', 'pipelines', 'stable', 'finding', 'multi', 'integrated']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [2062 2684 1287 1710 1629 1010  968 1772  392 4335  453 4589 4338  888
+ 3101 1313 2552 3859  810 3838]
+w_h_top_words:['km', 'citing', 'military', 'henley', 'counter', 'try', 'met', 'programs', 'conference', 'difficulty', 'cuts', 'edwards', 'repurchased', 'discuss', 'micro', 'immediate', 'pushed', 'hearings', 'force', 'restructured']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [4039 2275 2697 4198 2371 1137 3594  179 2204 2388 1172 2659  649 2518
+ 2773 2589  984 2022 3157 1666]
+w_h_top_words:['likelihood', 'kind', 'zone', 'adjust', 'sentiment', 'believed', 'forcing', 'minister', 'quite', 'tankers', 'package', 'lose', 'come', 'ex', 'seriously', 'uk', 'river', 'push', 'wish', 'strength']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [1408 2562 4163 3084 2688  902 1272  375 1037 3835 2870  422 2443 4047
+ 1225 2815  785 4124 3086 2122]
+w_h_top_words:['steps', 'enhance', 'cutbacks', 'monitor', 'person', 'top', 'giving', 'directors', 'beginning', 'exploring', 'defensive', 'give', 'sufficient', 'becomes', 'seeks', 'expensive', 'taking', 'marked', 'excessive', 'exercisable']
+----------------------------------------------------------------------
+h_num: 50
+w_h_top_words_indx: [2216 1651 2764 2833 1632 2179 1582 4268 3882 3436 2687 4155 1037 2070
+  712 2269 3193 3104 1234 3507]
+w_h_top_words:['linked', 'indicated', 'stand', 'uncertain', 'toward', 'running', 'expense', 'consist', 'assure', 'bache', 'decisions', 'murray', 'beginning', 'scientific', 'europe', 'reaffirmed', 'mr', 'topped', 'predicted', 'soft']
+----------------------------------------------------------------------
+h_num: 51
+w_h_top_words_indx: [2638 1753 1210 2609 3862 3119  842 1343 2488 1313 2927 3837 3986 1714
+  653 1981 3399 1470 2597 2706]
+w_h_top_words:['normally', 'flat', 'coal', 'section', 'reduces', 'harbour', 'farm', 'produced', 'korean', 'immediate', 'wood', 'names', 'brewery', 'obligations', 'tonnes', 'exchanges', 'secured', 'matter', 'presented', 'experts']
+----------------------------------------------------------------------
+h_num: 52
+w_h_top_words_indx: [1314 4269 2443  952 1756  818 1237 3013 1574 4549  428 4370 3322  542
+ 2053 3497 2599 2936 1539 3695]
+w_h_top_words:['minority', 'edison', 'sufficient', 'operate', 'commonwealth', 'royal', 'facility', 'hospital', 'different', 'doubtful', 'commercial', 'obligation', 'supports', 'bills', 'complex', 'abandoned', 'montreal', 'chartered', 'agrees', 'inter']
+----------------------------------------------------------------------
+h_num: 53
+w_h_top_words_indx: [1445 1312 2172 1658 2374 1166 1280 1897  590 1286 4778 1818  862 2107
+ 2420 1639 2507 1733 1421  924]
+w_h_top_words:['delivery', 'paying', 'possibly', 'shortly', 'replied', 'spokeswoman', 'aircraft', 'bear', 'southern', 'affect', 'antonio', 'leave', 'best', 'certainly', 'flag', 'pound', 'shift', 'directly', 'dominion', 'customers']
+----------------------------------------------------------------------
+h_num: 54
+w_h_top_words_indx: [2836 2838 3630 2654 3882 1183 3809 3459 4596 2660 1675 2378 4376 4663
+ 4618 1659 4688 2972 3364 4028]
+w_h_top_words:['agencies', 'indian', 'sluggish', 'read', 'assure', 'follows', 'please', 'comprised', 'owed', 'duty', 'slow', 'interbank', 'signals', 'meets', 'repayments', 'appropriate', 'correcting', 'documents', 'ccc', 'correction']
+----------------------------------------------------------------------
+h_num: 55
+w_h_top_words_indx: [2159 1078  784 3724 2098 1343 1887 2936 1861 2195 3062 3451 1905 1071
+ 1052 2764 1728 1707 3165 1525]
+w_h_top_words:['shanghai', 'dropped', 'office', 'forest', 'ordered', 'produced', 'exporters', 'chartered', 'machinery', 'comes', 'principally', 'guidelines', 'district', 'percentage', 'authorities', 'stand', 'lift', 'providing', 'secondary', 'singapore']
+----------------------------------------------------------------------
+h_num: 56
+w_h_top_words_indx: [2024 3354 1661 1610 3822  877 1959 4036 3482 2245 2368 1636 3493 2430
+ 3535  992 2818 4783  868  810]
+w_h_top_words:['midnight', 'alleges', 'cited', 'declines', 'reviewed', 'allegheny', 'calling', 'sunter', 'motion', 'lawsuit', 'curb', 'trans', 'powerful', 'stay', 'underway', 'transportation', 'repeated', 'tandy', 'wants', 'force']
+----------------------------------------------------------------------
+h_num: 57
+w_h_top_words_indx: [3190 2915 1803 2682 4184 2360 1744 2792  708 1447 4075 1072 4495 2185
+ 1619 3788 4619 1131 4324 4250]
+w_h_top_words:['financially', 'violating', 'concluded', 'pumping', 'everything', 'emirates', 'norstar', 'sheikh', 'form', 'urged', 'referred', 'arab', 'arranging', 'delaware', 'commitments', 'crucial', 'explain', 'protectionist', 'cb', 'incorporation']
+----------------------------------------------------------------------
+h_num: 58
+w_h_top_words_indx: [ 812  206  304    9   59   11   85    0   48 3392   99 4157   36 1530
+   37   62  365  692  258 1833]
+w_h_top_words:['rev', 'jan', 'nd', 'qtr', 'th', 'revs', 'st', 'shr', 'mths', 'nonrecurring', 'rd', 'nl', 'avg', 'restaurants', 'shrs', 'includes', 'nil', 'medical', 'discontinued', 'nov']
+----------------------------------------------------------------------
+h_num: 59
+w_h_top_words_indx: [1386 1819 2684 1585 4614  920 2494 2721 1182 2681 1156 3936 3946 1751
+ 2358 2423 2213 1889 2402 2656]
+w_h_top_words:['whole', 'turn', 'citing', 'brands', 'accepting', 'named', 'citizens', 'changing', 'outlook', 'grew', 'pa', 'earning', 'surge', 'salomon', 'failing', 'ever', 'setting', 'individual', 'arm', 'blue']
+----------------------------------------------------------------------
+h_num: 60
+w_h_top_words_indx: [2486 1520 2160 1400 2132 1170 1881  911 3627 2913 3785 3129 1993 1896
+ 4381 1691 1877 2244 1362  895]
+w_h_top_words:['partial', 'book', 'ratio', 'fact', 'fresh', 'every', 'therefore', 'similar', 'sovereign', 'calculated', 'allocated', 'debtor', 'floating', 'developed', 'wake', 'mean', 'stabilize', 'carrying', 'merged', 'valued']
+----------------------------------------------------------------------
+h_num: 61
+w_h_top_words_indx: [3756 1137 4765 3236 4631 3081 4203 2410 1751 1010 2088 1316 1354 4624
+ 3618 2218  672  773 3025 1855]
+w_h_top_words:['defending', 'believed', 'dupont', 'optimism', 'tells', 'dependent', 'dd', 'participate', 'salomon', 'try', 'advisor', 'committed', 'houston', 'dram', 'solutions', 'resolution', 'going', 'light', 'pont', 'fears']
+----------------------------------------------------------------------
+h_num: 62
+w_h_top_words_indx: [4112 1130  862 2134  733 2721 1628 4616 2321 2204 3004 1304 2423  899
+ 4713 2930  711 1166  615 3051]
+w_h_top_words:['arising', 'instead', 'best', 'cars', 'continental', 'changing', 'groups', 'stauffer', 'variety', 'quite', 'suffered', 'global', 'ever', 'sept', 'engineers', 'lewis', 'associates', 'spokeswoman', 'research', 'competitor']
+----------------------------------------------------------------------
+h_num: 63
+w_h_top_words_indx: [2308 1081 2412 1209 1215 1400 2368 3746 1586 3339 3518 4608 3183 1665
+ 2302 2868 4005 3613 1377 1663]
+w_h_top_words:['disputes', 'unfair', 'works', 'tariff', 'released', 'fact', 'curb', 'mixed', 'alleged', 'rich', 'version', 'argued', 'practice', 'summer', 'twice', 'requiring', 'salary', 'lumber', 'dumping', 'resolve']
+----------------------------------------------------------------------
+h_num: 64
+w_h_top_words_indx: [1107  710  930 2075 2965 2148 4558  959 4170 4361 1904 4456 4150 1284
+ 2271 3187 1232 1999 1878 1405]
+w_h_top_words:['concerned', 'press', 'process', 'debts', 'competitors', 'represent', 'bigger', 'intends', 'borrow', 'thinks', 'auto', 'choice', 'binding', 'william', 'suppliers', 'predict', 'michael', 'deals', 'threat', 'projects']
+----------------------------------------------------------------------
+h_num: 65
+w_h_top_words_indx: [1261 4150 3942  518 2554 3044  880 3018 3435 1394 1877 1728 2700 4163
+  748 1379 2486 2774 2891 4688]
+w_h_top_words:['commitment', 'binding', 'allows', 'supply', 'personnel', 'audit', 'maintain', 'implement', 'slipped', 'know', 'stabilize', 'lift', 'appeal', 'cutbacks', 'orders', 'imposed', 'partial', 'feed', 'severe', 'correcting']
+----------------------------------------------------------------------
+h_num: 66
+w_h_top_words_indx: [2616  921  811 1310 4434 1067 2003 1133 4320 2774 2989 1986 4381 1150
+ 2386 3037 3134 1053  648 2042]
+w_h_top_words:['expanded', 'warrants', 'plus', 'exercise', 'finalized', 'acquiring', 'evaluate', 'foods', 'consisting', 'feed', 'elected', 'rival', 'wake', 'values', 'aware', 'participating', 'fit', 'question', 'consider', 'something']
+----------------------------------------------------------------------
+h_num: 67
+w_h_top_words_indx: [1890 3882 1238  885  922 2433  918 1843 3673 3108  268 3356 2966 2474
+ 3371 1763 4664 1704 2172 3930]
+w_h_top_words:['respect', 'assure', 'competitive', 'potential', 'longer', 'spent', 'volume', 'achieved', 'inquiries', 'pharmaceuticals', 'high', 'restore', 'lay', 'flexibility', 'adams', 'maximum', 'pep', 'brokers', 'possibly', 'covered']
+----------------------------------------------------------------------
+h_num: 68
+w_h_top_words_indx: [2496 2305 3547 2434 2965 2624 4046 2181  900 3541 1220 1495 3652 3627
+ 3590 2094 1735 2590 2118 4611]
+w_h_top_words:['steady', 'appears', 'challenges', 'urges', 'competitors', 'ban', 'holland', 'gives', 'accept', 'professional', 'successful', 'course', 'indications', 'sovereign', 'representation', 'bidder', 'using', 'thus', 'extension', 'zurich']
+----------------------------------------------------------------------
+h_num: 69
+w_h_top_words_indx: [ 565  994 2452 2093 2237 2887 1876 1980  633 1258 2079 2375 2352 1367
+ 1376 2943 2540 2214 3321 2828]
+w_h_top_words:['power', 'overall', 'margin', 'bad', 'kansas', 'speed', 'recommend', 'donald', 'limited', 'accepted', 'permit', 'indiana', 'heritage', 'preference', 'middle', 'acceptance', 'widely', 'serve', 'science', 'except']
+----------------------------------------------------------------------
+h_num: 70
+w_h_top_words_indx: [ 636 1978 2551 2156 1926 1497 1992 4019 1078 3109 4668 1066 3463 2667
+ 2974 1481 1687 1915 2840 2828]
+w_h_top_words:['drop', 'api', 'film', 'bahrain', 'never', 'institute', 'compensation', 'cheaper', 'dropped', 'consensus', 'stretch', 'reach', 'weaker', 'downturn', 'views', 'refining', 'hurt', 'wti', 'refiners', 'except']
+----------------------------------------------------------------------
+h_num: 71
+w_h_top_words_indx: [3192 2057 2146 2151 1477  193 2958 4632 3296 2619 1607 2455 2222 2824
+ 1389 4017 2096 2852  712   75]
+w_h_top_words:['associate', 'sum', 'par', 'listed', 'equivalent', 'k', 'ultramar', 'compatible', 'centre', 'retailer', 'manufacturer', 'depend', 'eased', 'apparel', 'woolworth', 'tentatively', 'rank', 'programme', 'europe', 'stg']
+----------------------------------------------------------------------
+h_num: 72
+w_h_top_words_indx: [1050 1325 2312  697 2639 3167 1700 1997 2101 4091 2856 3779 3679 3244
+ 3143 1280 4544 1234 1030 3367]
+w_h_top_words:['risk', 'richard', 'dealing', 'key', 'neither', 'barclays', 'falls', 'pressures', 'lowest', 'forecasting', 'heads', 'locations', 'leases', 'convinced', 'pantera', 'aircraft', 'regulation', 'predicted', 'estimate', 'averaged']
+----------------------------------------------------------------------
+h_num: 73
+w_h_top_words_indx: [2505 2255 3209  880 1106 4287 1134 2265 3225 1571 2322 1261 2100 2010
+ 2956 1332 3465 1168  969 1868]
+w_h_top_words:['wisconsin', 'favor', 'sound', 'maintain', 'restrictions', 'depth', 'producing', 'century', 'biotechnology', 'economies', 'shoe', 'commitment', 'defend', 'jones', 'involves', 'damage', 'assist', 'buyers', 'believes', 'confidence']
+----------------------------------------------------------------------
+h_num: 74
+w_h_top_words_indx: [3307 2109 1819  796 2501 1926 3461 2846 1705 1408 4492 4400 2786  231
+ 2857 4070  739 3879 4276 1609]
+w_h_top_words:['yearend', 'pennsylvania', 'turn', 'land', 'engaged', 'never', 'grand', 'casino', 'lease', 'steps', 'barbara', 'leased', 'exact', 'second', 'holiday', 'mm', 'mortgage', 'ga', 'conn', 'nuclear']
+----------------------------------------------------------------------
+h_num: 75
+w_h_top_words_indx: [ 564 3400 2362 3636 3001 3048 1810 2168  292 1088 1826 3879 2770 2966
+  582  876 1295 4266 3674 1697]
+w_h_top_words:['return', 'shutdown', 'volumes', 'moderate', 'detailed', 'hike', 'goal', 'super', 'south', 'africa', 'utilities', 'ga', 'advertising', 'lay', 'changes', 'council', 'qtrly', 'qualify', 'ministerial', 'leaders']
+----------------------------------------------------------------------
+h_num: 76
+w_h_top_words_indx: [2722 1166 1003 2710 3470  692  382 1514  859  654  982 3858  377  317
+ 4564  467 1805  955 3044 1183]
+w_h_top_words:['maryland', 'spokeswoman', 'retail', 'mercantile', 'brian', 'medical', 'washington', 'create', 'great', 'california', 'add', 'commons', 'stores', 'effective', 'arizona', 'date', 'virginia', 'atlantic', 'audit', 'follows']
+----------------------------------------------------------------------
+h_num: 77
+w_h_top_words_indx: [2744 2341 4394 1428  741 4261 3844 2049 1696 2248 1160 1055 1799  913
+ 1947 1387 2848  293 4665  150]
+w_h_top_words:['increasingly', 'environmental', 'imposing', 'sides', 'war', 'emerging', 'pooling', 'propose', 'george', 'separately', 'fair', 'defense', 'curbs', 'cooperation', 'stage', 'protect', 'announces', 'gulf', 'dispose', 'states']
+----------------------------------------------------------------------
+h_num: 78
+w_h_top_words_indx: [1016 1698 2505 4177 1596 2843 2996 4240 2757 2618 4735 3629 3315 2312
+ 2519 3518 3792 1179 3212 3210]
+w_h_top_words:['pension', 'pricing', 'wisconsin', 'depends', 'storage', 'arms', 'purchasing', 'lifo', 'pharmaceutical', 'jim', 'decreased', 'instrument', 'closure', 'dealing', 'assume', 'version', 'amendments', 'negotiating', 'costly', 'pictures']
+----------------------------------------------------------------------
+h_num: 79
+w_h_top_words_indx: [2407 2319 3115 1539 2230 1083 4338 4128 3300  572 1452  407  442 2243
+  119 2799 1559 1163 3491 3260]
+w_h_top_words:['competing', 'expires', 'comprising', 'agrees', 'behalf', 'citicorp', 'repurchased', 'benequity', 'presently', 'dixons', 'retain', 'offered', 'class', 'advance', 'outstanding', 'hillards', 'opinion', 'alternative', 'contained', 'tesco']
+----------------------------------------------------------------------
+h_num: 80
+w_h_top_words_indx: [ 891 2218 4232 1496 3294  786 4386 1664 2023 2439 2864 3317 1697 4456
+ 1933  743 2537 2279 4091  604]
+w_h_top_words:['political', 'resolution', 'focused', 'affairs', 'repeatedly', 'attempt', 'tell', 'enter', 'join', 'adviser', 'initiative', 'satisfy', 'leaders', 'choice', 'microchips', 'efforts', 'freedom', 'colonial', 'forecasting', 'bancorp']
+----------------------------------------------------------------------
+h_num: 81
+w_h_top_words_indx: [2722 2016 1273 3222 2113 3166 1340 3878  397 2655 3666 1594 2232 1834
+ 2646 1259 1704  645 1521 4259]
+w_h_top_words:['maryland', 'weakness', 'regional', 'equities', 'traditional', 'divided', 'suspended', 'fairly', 'german', 'invested', 'schmidt', 'release', 'movement', 'closely', 'favorable', 'along', 'brokers', 'shipping', 'components', 'benson']
+----------------------------------------------------------------------
+h_num: 82
+w_h_top_words_indx: [4149 4621 1192 4099 1841 2209 1617 1288 1009 2036 1216 3638 1987  796
+ 2248 3298 1264 1272 1958 4163]
+w_h_top_words:['wider', 'shall', 'hope', 'professor', 'reiterated', 'internal', 'executives', 'prevent', 'considered', 'apparently', 'remarks', 'assistant', 'limits', 'land', 'separately', 'telling', 'followed', 'giving', 'diplomats', 'cutbacks']
+----------------------------------------------------------------------
+h_num: 83
+w_h_top_words_indx: [2978 2821 1659 4603 4410 2203 2841 2851 4398 2740 1830 1721 2867 2496
+ 2870 2654 2418 1206 3039 4311]
+w_h_top_words:['considers', 'talk', 'appropriate', 'employed', 'prefer', 'northeast', 'timing', 'chances', 'decides', 'downward', 'plastics', 'conversion', 'macandrews', 'steady', 'defensive', 'read', 'negotiated', 'requirements', 'norfolk', 'continuation']
+----------------------------------------------------------------------
+h_num: 84
+w_h_top_words_indx: [ 450 1287 3797  752 3049 2886 1056 3584 1660 2278 2613  440 2719 1583
+ 4644 1522 3850 3524 1055 4265]
+w_h_top_words:['technology', 'military', 'machine', 'proposals', 'digital', 'crown', 'produce', 'cnt', 'size', 'golden', 'writeoff', 'units', 'climbed', 'diamond', 'goodwill', 'asian', 'patent', 'table', 'defense', 'recording']
+----------------------------------------------------------------------
+h_num: 85
+w_h_top_words_indx: [1196 1672 2886  733 2387 2157 3473 1227 2186 4564 1543 1991  697  987
+ 3519 3889 2329 2532 4488 1279]
+w_h_top_words:['supplies', 'opportunity', 'crown', 'continental', 'bulk', 'amendment', 'proposing', 'swedish', 'headed', 'arizona', 'fujitsu', 'hand', 'key', 'ab', 'francaise', 'kentucky', 'cie', 'solve', 'recognize', 'opening']
+----------------------------------------------------------------------
+h_num: 86
+w_h_top_words_indx: [1975 1236 1200 1196 3661 2261 2457 3108 1848 3894 1961 1397 2874 1538
+ 4166 4256 2102 4014 4277 3292]
+w_h_top_words:['charles', 'chemicals', 'temporary', 'supplies', 'soared', 'attention', 'appreciation', 'pharmaceuticals', 'fast', 'hartford', 'usa', 'expectations', 'jack', 'grow', 'efficient', 'heading', 'fluctuations', 'roy', 'automobile', 'draw']
+----------------------------------------------------------------------
+h_num: 87
+w_h_top_words_indx: [4079 2226 2027  144 2478 3663 1342 2648  482 2959 1417  909  400  655
+ 4492 1556 2818 1174 3533 2541]
+w_h_top_words:['x', 'fla', 'boards', 'west', 'bringing', 'usx', 'signal', 'machines', 'germany', 'commerzbank', 'shamrock', 'employees', 'disclosed', 'telephone', 'barbara', 'station', 'repeated', 'combination', 'linotype', 'douglas']
+----------------------------------------------------------------------
+h_num: 88
+w_h_top_words_indx: [1119  600 4593 3456 1624 1169 2473 4490 1840 1815 1879 3941 1961 1782
+ 3152 1994 1637 3942 1453 3380]
+w_h_top_words:['water', 'product', 'groupe', 'appeals', 'operator', 'bell', 'maintained', 'inland', 'ventures', 'opposition', 'lambert', 'resumed', 'usa', 'drug', 'massive', 'attributable', 'voted', 'allows', 'test', 'subsidy']
+----------------------------------------------------------------------
+h_num: 89
+w_h_top_words_indx: [ 988 1545 3777  223  483 1444 2316 1776 1929 1164 3808 3166 2223 2227
+ 1751 2417 1061 3563 1527 1739]
+w_h_top_words:['bring', 'ease', 'possibilities', 'public', 'later', 'statements', 'ongoing', 'determine', 'became', 'went', 'maturities', 'divided', 'contribution', 'wilson', 'salomon', 'treatment', 'policies', 'bsn', 'hopes', 'single']
+----------------------------------------------------------------------
+h_num: 90
+w_h_top_words_indx: [2374 3638 3701  533 1194 1739  446  662 4071 1048 2171 2047  548 1940
+ 3893 2112 1402 2855 3929 1966]
+w_h_top_words:['replied', 'assistant', 'alter', 'despite', 'largely', 'single', 'members', 'present', 'routes', 'together', 'achieve', 'underlying', 'work', 'advisers', 'receives', 'extent', 'willing', 'matters', 'obviously', 'mills']
+----------------------------------------------------------------------
+h_num: 91
+w_h_top_words_indx: [4627 2099 2640 2798 1387 3526 3287 3595 4507 2556 1778 1441 3085 2924
+ 4619 2809  883 3591 2009 3323]
+w_h_top_words:['education', 'reference', 'urge', 'swap', 'protect', 'selected', 'illegal', 'integration', 'retrieval', 'liberal', 'minerals', 'region', 'protected', 'jacques', 'explain', 'suspend', 'morgan', 'quick', 'meanwhile', 'multilateral']
+----------------------------------------------------------------------
+h_num: 92
+w_h_top_words_indx: [ 258  769 1006  226   32  665  824  241  202  499  302 1180  109 3093
+  532 1422   78   72 2176  249]
+w_h_top_words:['discontinued', 'exclude', 'writedown', 'excludes', 'oper', 'restated', 'crowns', 'extraordinary', 'december', 'periods', 'charge', 'carryforward', 'results', 'consolidation', 'adjusted', 'inventory', 'gain', 'operations', 'lenders', 'preferred']
+----------------------------------------------------------------------
+h_num: 93
+w_h_top_words_indx: [4529 1215 3043 1855 4122 2117 1877  429 3181 3058 3074 1787 2597 1242
+ 2643 1878 1199 2050 1119 3688]
+w_h_top_words:['road', 'released', 'appropriations', 'fears', 'emphasis', 'miller', 'stabilize', 'secretary', 'fill', 'criticism', 'kept', 'speech', 'presented', 'fuel', 'discussion', 'threat', 'continues', 'herrington', 'water', 'exception']
+----------------------------------------------------------------------
+h_num: 94
+w_h_top_words_indx: [2522  656 4713  720 3612 2204 2382 1896 2078 4785 2506 2045 4277 3103
+ 3614 1279  820 1696 3664  640]
+w_h_top_words:['francisco', 'pressure', 'engineers', 'start', 'connected', 'quite', 'file', 'developed', 'concentrate', 'marketplace', 'example', 'deferred', 'automobile', 'eliminate', 'restrict', 'opening', 'post', 'george', 'hour', 'remaining']
+----------------------------------------------------------------------
+h_num: 95
+w_h_top_words_indx: [2145 1154  581 3185 1256 2561 3102  758 1312 3599  896  950 1794 1098
+  784 1515  690 3135  688  580]
+w_h_top_words:['unspecified', 'county', 'agreements', 'guarantee', 'r', 'totalling', 'regulators', 'wholly', 'paying', 'kenneth', 'entered', 'asset', 'waiting', 'materials', 'office', 'material', 'member', 'commissioner', 'combined', 'city']
+----------------------------------------------------------------------
+h_num: 96
+w_h_top_words_indx: [1555 1190 1078 1175 1969 4116 1002  417 2573 2055  703 1870 3655 4249
+  198  821 4561 2540 1109  497]
+w_h_top_words:['projected', 'reason', 'dropped', 'head', 'introduced', 'valid', 'offset', 'within', 'outcome', 'moved', 'review', 'behind', 'trends', 'replacing', 'proposed', 'complete', 'finally', 'widely', 'recovery', 'good']
+----------------------------------------------------------------------
+h_num: 97
+w_h_top_words_indx: [2972 2318 1841 3173 2448  672 1050 1631 1427 2244  719 1281 2954 4404
+ 1506 1549 1704 2994 2052 1671]
+w_h_top_words:['documents', 'uncertainty', 'reiterated', 'looks', 'reaction', 'going', 'risk', 'contributed', 'expressed', 'carrying', 'britain', 'aerospace', 'fear', 'considerably', 'depreciation', 'lot', 'brokers', 'rubber', 'approach', 'enable']
+----------------------------------------------------------------------
+h_num: 98
+w_h_top_words_indx: [1882 2616 3445 3303 1768 2673  676 1273  973 4498 2737 3294 1987 1634
+ 2000 2853 3129 1846 1787 2085]
+w_h_top_words:['declining', 'expanded', 'reply', 'shelf', 'wide', 'aim', 'revenue', 'regional', 'specific', 'partnerships', 'partially', 'repeatedly', 'limits', 'applied', 'stronger', 'phase', 'debtor', 'mine', 'speech', 'stood']
+----------------------------------------------------------------------
+h_num: 99
+w_h_top_words_indx: [2643 1930 1451 1416  325 3232 2884 2410 2033 1887 2349 2247 4153 2844
+  714 3335 3465 3040 1546 4424]
+w_h_top_words:['discussion', 'clients', 'retained', 'bankruptcy', 'service', 'exclusive', 'approached', 'participate', 'ore', 'exporters', 'shown', 'pak', 'respective', 'headquartered', 'shearson', 'seat', 'assist', 'plaza', 'container', 'renamed']
+----------------------------------------------------------------------
